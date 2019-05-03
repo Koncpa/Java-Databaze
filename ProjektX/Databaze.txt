@@ -1,0 +1,1 @@
+1;Petr;Koukal;[4, 3];5;4;2004;Technika;3.5
